@@ -18,7 +18,7 @@ public class InputController
 	
 	public void start()
 	{
-		questions();
+		questions();                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  
 	}
 	
 	private void questions()
